@@ -1,0 +1,30 @@
+C:\Users\gaber\Source\Repos\COS30019-Intro-to-AI-Assignment-2\AI-Assignment-2\AI-Assignment-2\bin\Debug\AI-Assignment-2.exe.config
+C:\Users\gaber\Source\Repos\COS30019-Intro-to-AI-Assignment-2\AI-Assignment-2\AI-Assignment-2\bin\Debug\AI-Assignment-2.exe
+C:\Users\gaber\Source\Repos\COS30019-Intro-to-AI-Assignment-2\AI-Assignment-2\AI-Assignment-2\bin\Debug\AI-Assignment-2.pdb
+C:\Users\gaber\Source\Repos\COS30019-Intro-to-AI-Assignment-2\AI-Assignment-2\AI-Assignment-2\obj\Debug\AI-Assignment-2.csproj.CoreCompileInputs.cache
+C:\Users\gaber\Source\Repos\COS30019-Intro-to-AI-Assignment-2\AI-Assignment-2\AI-Assignment-2\obj\Debug\AI-Assignment-2.exe
+C:\Users\gaber\Source\Repos\COS30019-Intro-to-AI-Assignment-2\AI-Assignment-2\AI-Assignment-2\obj\Debug\AI-Assignment-2.pdb
+C:\Users\Sam\Source\Repos\GabrielReynolds\COS30019-Intro-to-AI-Assignment-2\AI-Assignment-2\AI-Assignment-2\bin\Debug\AI-Assignment-2.exe.config
+C:\Users\Sam\Source\Repos\GabrielReynolds\COS30019-Intro-to-AI-Assignment-2\AI-Assignment-2\AI-Assignment-2\bin\Debug\AI-Assignment-2.exe
+C:\Users\Sam\Source\Repos\GabrielReynolds\COS30019-Intro-to-AI-Assignment-2\AI-Assignment-2\AI-Assignment-2\bin\Debug\AI-Assignment-2.pdb
+C:\Users\Sam\Source\Repos\GabrielReynolds\COS30019-Intro-to-AI-Assignment-2\AI-Assignment-2\AI-Assignment-2\obj\Debug\AI-Assignment-2.csprojAssemblyReference.cache
+C:\Users\Sam\Source\Repos\GabrielReynolds\COS30019-Intro-to-AI-Assignment-2\AI-Assignment-2\AI-Assignment-2\obj\Debug\AI-Assignment-2.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Source\Repos\GabrielReynolds\COS30019-Intro-to-AI-Assignment-2\AI-Assignment-2\AI-Assignment-2\obj\Debug\AI-Assignment-2.exe
+C:\Users\Sam\Source\Repos\GabrielReynolds\COS30019-Intro-to-AI-Assignment-2\AI-Assignment-2\AI-Assignment-2\obj\Debug\AI-Assignment-2.pdb
+C:\Users\gaber\Source\Repos\COS30019-Intro-to-AI-Assignment-2\AI-Assignment-2\AI-Assignment-2\obj\Debug\AI-Assignment-2.csprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\COS30019-Intro-to-AI-Assignment-2-main\COS30019-Intro-to-AI-Assignment-2-main\AI-Assignment-2\AI-Assignment-2\bin\Debug\AI-Assignment-2.exe.config
+C:\Users\Lenovo\Downloads\COS30019-Intro-to-AI-Assignment-2-main\COS30019-Intro-to-AI-Assignment-2-main\AI-Assignment-2\AI-Assignment-2\bin\Debug\AI-Assignment-2.exe
+C:\Users\Lenovo\Downloads\COS30019-Intro-to-AI-Assignment-2-main\COS30019-Intro-to-AI-Assignment-2-main\AI-Assignment-2\AI-Assignment-2\bin\Debug\AI-Assignment-2.pdb
+C:\Users\Lenovo\Downloads\COS30019-Intro-to-AI-Assignment-2-main\COS30019-Intro-to-AI-Assignment-2-main\AI-Assignment-2\AI-Assignment-2\obj\Debug\AI-Assignment-2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\COS30019-Intro-to-AI-Assignment-2-main\COS30019-Intro-to-AI-Assignment-2-main\AI-Assignment-2\AI-Assignment-2\obj\Debug\AI-Assignment-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Downloads\COS30019-Intro-to-AI-Assignment-2-main\COS30019-Intro-to-AI-Assignment-2-main\AI-Assignment-2\AI-Assignment-2\obj\Debug\AI-Assignment-2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\COS30019-Intro-to-AI-Assignment-2-main\COS30019-Intro-to-AI-Assignment-2-main\AI-Assignment-2\AI-Assignment-2\obj\Debug\AI-Assignment-2.exe
+C:\Users\Lenovo\Downloads\COS30019-Intro-to-AI-Assignment-2-main\COS30019-Intro-to-AI-Assignment-2-main\AI-Assignment-2\AI-Assignment-2\obj\Debug\AI-Assignment-2.pdb
+D:\Study\SwinburneVN\IT Major\COS30019\Assignment 2\Assignment2_GiaHuyNguyen_103441107-DucMinhNguyen_103432350\bin\Debug\AI-Assignment-2.exe.config
+D:\Study\SwinburneVN\IT Major\COS30019\Assignment 2\Assignment2_GiaHuyNguyen_103441107-DucMinhNguyen_103432350\bin\Debug\AI-Assignment-2.exe
+D:\Study\SwinburneVN\IT Major\COS30019\Assignment 2\Assignment2_GiaHuyNguyen_103441107-DucMinhNguyen_103432350\bin\Debug\AI-Assignment-2.pdb
+D:\Study\SwinburneVN\IT Major\COS30019\Assignment 2\Assignment2_GiaHuyNguyen_103441107-DucMinhNguyen_103432350\obj\Debug\AI-Assignment-2.csproj.AssemblyReference.cache
+D:\Study\SwinburneVN\IT Major\COS30019\Assignment 2\Assignment2_GiaHuyNguyen_103441107-DucMinhNguyen_103432350\obj\Debug\AI-Assignment-2.csproj.SuggestedBindingRedirects.cache
+D:\Study\SwinburneVN\IT Major\COS30019\Assignment 2\Assignment2_GiaHuyNguyen_103441107-DucMinhNguyen_103432350\obj\Debug\AI-Assignment-2.csproj.CoreCompileInputs.cache
+D:\Study\SwinburneVN\IT Major\COS30019\Assignment 2\Assignment2_GiaHuyNguyen_103441107-DucMinhNguyen_103432350\obj\Debug\AI-Assignment-2.exe
+D:\Study\SwinburneVN\IT Major\COS30019\Assignment 2\Assignment2_GiaHuyNguyen_103441107-DucMinhNguyen_103432350\obj\Debug\AI-Assignment-2.pdb
